@@ -75,7 +75,7 @@
     margin-top: 8rem;
   }
 }
-@media (max-width: 26em) {
+@media (max-width: 23em) {
   html {
     font-size: 40%;
   }
