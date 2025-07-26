@@ -1,0 +1,113 @@
+@media (max-width: 53em) {
+  .container {
+    max-width: 70rem;
+  }
+  .btn-con {
+    padding-left: 1rem;
+  }
+}
+@media (max-width: 46em) {
+  .container {
+    max-width: 60rem;
+  }
+  footer {
+    font-size: 1rem;
+    font-weight: 500;
+  }
+}
+@media (max-width: 35em) {
+  .container {
+    max-width: 50rem;
+  }
+  .main-grid {
+    gap: 1rem;
+  }
+  .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+  footer {
+    margin-top: 3rem;
+  }
+}
+
+@media (max-width: 33em) {
+  html {
+    font-size: 52.4%;
+  }
+  .title {
+    text-align: center;
+    font-size: 3rem;
+  }
+  .container {
+    max-width: 45rem;
+  }
+  .check {
+    margin-top: 1rem;
+  }
+  .btn-con {
+    padding-left: 1rem;
+  }
+  footer {
+    margin-top: 8rem;
+  }
+}
+@media (max-width: 27em) {
+  html {
+    font-size: 48.4%;
+  }
+  .title {
+    text-align: center;
+    font-size: 2rem;
+  }
+  .container {
+    margin-top: 14rem;
+  }
+}
+@media (max-width: 24em) {
+  .main-grid {
+    gap: 0rem;
+  }
+  .main-grid {
+    grid-template-columns: 1fr;
+  }
+  footer {
+    margin-top: 8rem;
+  }
+}
+@media (max-width: 24em) {
+  html {
+    font-size: 40%;
+  }
+  .container {
+    max-width: 50rem;
+  }
+
+  .left input {
+    height: 15rem;
+    display: inline-block;
+
+    width: 70%;
+  }
+  .left {
+    margin-bottom: 3rem;
+    margin-left: 10rem;
+  }
+  .check {
+    padding-left: 2rem;
+  }
+  .btn {
+    padding: 1rem 1.5rem;
+    font-size: 2rem;
+  }
+  .btn-con {
+    padding-left: 6rem;
+  }
+  .right {
+    gap: 2.5rem;
+    font-size: 1.5rem;
+  }
+  footer {
+    margin-top: 10rem;
+  }
+}
